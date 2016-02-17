@@ -1,0 +1,7 @@
+Foundation:
+Es un entorno de trabajo(Framework) de interfaz de usuario responsive.
+Proporciona una gran cantidad de componentes para HTML y CSS asi como; plantillas, formularios, botones, flexbox, extensiones de javascript y otros.
+
+Se utiliza a traves de los .html dando clases a los elementos y definiendoles una funcion.
+
+Algunos componentes se pueden editar a traves del CSS.
